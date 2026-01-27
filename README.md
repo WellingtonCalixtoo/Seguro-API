@@ -21,10 +21,6 @@ O projeto foi estruturado com foco em **Clean Architecture**, **SOLID** e **mape
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/HenriqueCCalixto/api-agibank.git
-cd api-agibank
-```
 
 2. Suba tudo com Docker Compose:
 
